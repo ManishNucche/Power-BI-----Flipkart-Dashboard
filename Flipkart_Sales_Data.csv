@@ -1,0 +1,501 @@
+Order ID,Order Date,Customer Name,Category,Subcategory,Price,Discount (%),Final Price,Quantity,Revenue,Profit Margin (%),Profit,Customer Rating,Review Sentiment
+ORD10000,2024-09-15,Matthew Dalton,Home & Kitchen,Home Decor,46347.37,47.51,24327.73,5,121638.65,25.83,31419.26,2.9,Neutral
+ORD10001,2024-09-21,Travis Roberts,Home & Kitchen,Home Decor,1396.66,21.29,1099.31,3,3297.93,27.42,904.29,2.9,Positive
+ORD10002,2024-09-12,Lori Murray,Books,Non-Fiction,38780.78,38.48,23857.94,1,23857.94,7.56,1803.66,4.5,Neutral
+ORD10003,2025-01-29,James Cooper,Books,Educational,27462.31,43.5,15516.21,5,77581.05,19.75,15322.26,4.0,Neutral
+ORD10004,2024-07-11,Virginia Taylor,Fashion,Women's Clothing,24002.01,47.45,12613.06,3,37839.18,8.05,3046.05,2.6,Negative
+ORD10005,2024-03-20,Pamela Wilson,Electronics,Smartwatches,31059.83,18.52,25307.55,4,101230.2,25.5,25813.7,3.7,Positive
+ORD10006,2024-11-03,Mr. Nicholas Hill,Books,Comics,46187.92,5.21,43781.53,4,175126.12,18.27,31995.54,3.0,Neutral
+ORD10007,2024-12-29,Michael Reynolds,Beauty & Personal Care,Haircare,2584.89,34.74,1686.9,5,8434.5,13.17,1110.82,4.6,Neutral
+ORD10008,2025-03-17,Matthew Campbell,Beauty & Personal Care,Haircare,49738.75,18.79,40392.84,4,161571.36,6.39,10324.41,2.7,Positive
+ORD10009,2024-10-02,Alicia Thompson,Fashion,Women's Clothing,10892.01,40.4,6491.64,5,32458.2,19.96,6478.66,4.9,Positive
+ORD10010,2024-05-07,Paul Wang,Fashion,Women's Clothing,48897.13,37.61,30506.92,5,152534.6,24.8,37828.58,3.7,Negative
+ORD10011,2024-12-29,Dr. David Harmon,Fashion,Footwear,25669.53,15.39,21718.99,1,21718.99,27.21,5909.74,4.5,Negative
+ORD10012,2024-11-16,April Howard,Beauty & Personal Care,Haircare,29892.83,41.61,17454.42,4,69817.68,16.36,11422.17,3.3,Negative
+ORD10013,2024-04-30,Sandra Holt,Beauty & Personal Care,Haircare,11274.56,37.81,7011.65,3,21034.95,26.96,5671.02,3.1,Positive
+ORD10014,2024-08-10,Shaun Grimes,Beauty & Personal Care,Fragrances,8790.77,24.26,6658.13,1,6658.13,21.9,1458.13,3.5,Neutral
+ORD10015,2024-07-09,Christopher Haynes,Beauty & Personal Care,Makeup,35377.37,13.79,30498.83,1,30498.83,16.68,5087.2,4.2,Neutral
+ORD10016,2024-09-19,Erin Schmitt,Books,Educational,32446.97,41.87,18861.42,1,18861.42,21.73,4098.59,4.2,Positive
+ORD10017,2025-01-17,Susan Ray,Beauty & Personal Care,Haircare,13839.74,34.25,9099.63,1,9099.63,8.52,775.29,4.8,Negative
+ORD10018,2024-09-24,Monica Hunt,Fashion,Women's Clothing,4547.8,15.44,3845.62,3,11536.86,10.81,1247.13,3.5,Negative
+ORD10019,2024-08-20,Angela Gillespie,Fashion,Women's Clothing,8303.81,18.75,6746.85,5,33734.25,17.22,5809.04,4.6,Positive
+ORD10020,2024-12-19,Bethany Simmons,Home & Kitchen,Home Decor,47611.98,16.86,39584.6,2,79169.2,21.2,16783.87,4.3,Neutral
+ORD10021,2024-09-28,Donna Garcia,Books,Educational,34153.07,15.98,28695.41,1,28695.41,17.38,4987.26,4.6,Neutral
+ORD10022,2025-03-10,Victor Miranda,Electronics,Headphones,32067.82,31.49,21969.66,1,21969.66,12.01,2638.56,3.9,Neutral
+ORD10023,2025-02-06,David Williams,Fashion,Footwear,35073.95,29.59,24695.57,4,98782.28,28.11,27767.7,3.2,Neutral
+ORD10024,2024-10-01,Anthony Roberts,Fashion,Accessories,42534.22,13.32,36868.66,2,73737.32,24.71,18220.49,2.8,Positive
+ORD10025,2024-06-15,Michael Lyons,Home & Kitchen,Home Decor,13859.99,33.77,9179.47,4,36717.88,13.26,4868.79,2.9,Neutral
+ORD10026,2024-07-30,Brandy Walters,Fashion,Women's Clothing,22767.69,40.21,13612.8,5,68064.0,22.52,15328.01,2.5,Negative
+ORD10027,2024-05-29,Jessica Brown,Electronics,Headphones,12268.58,13.48,10614.78,5,53073.9,17.79,9441.85,4.9,Negative
+ORD10028,2024-07-16,Debbie Thomas,Books,Educational,18248.2,49.39,9235.41,3,27706.23,6.39,1770.43,3.7,Positive
+ORD10029,2024-07-29,Jeffery Hughes,Home & Kitchen,Appliances,23912.71,29.55,16846.5,4,67386.0,6.73,4535.08,4.9,Neutral
+ORD10030,2024-04-27,Michael Williams,Electronics,Smartwatches,20225.04,49.57,10199.49,2,20398.98,7.54,1538.08,3.7,Positive
+ORD10031,2024-06-14,Haley Jones,Electronics,Mobile Phones,37807.44,38.3,23327.19,3,69981.57,23.1,16165.74,4.3,Neutral
+ORD10032,2025-03-10,Alison Bailey,Books,Fiction,3815.98,27.53,2765.44,4,11061.76,12.91,1428.07,3.2,Positive
+ORD10033,2024-07-12,Kevin Pollard,Fashion,Men's Clothing,15061.37,26.16,11121.32,5,55606.6,25.82,14357.62,3.0,Negative
+ORD10034,2024-07-08,Diana Miller,Books,Non-Fiction,33842.15,42.89,19327.25,5,96636.25,5.2,5025.09,2.7,Neutral
+ORD10035,2024-10-17,Matthew Morgan PhD,Beauty & Personal Care,Fragrances,43157.63,15.21,36593.35,1,36593.35,21.9,8013.94,3.8,Positive
+ORD10036,2025-02-20,Tyler Yoder,Fashion,Accessories,39588.76,7.53,36607.73,1,36607.73,5.08,1859.67,3.1,Positive
+ORD10037,2024-05-08,Leonard Mcdonald,Electronics,Smartwatches,45142.89,10.87,40235.86,3,120707.58,6.0,7242.45,3.7,Positive
+ORD10038,2024-07-15,Melissa Martinez,Home & Kitchen,Kitchenware,21760.91,37.1,13687.61,3,41062.83,13.36,5485.99,4.5,Neutral
+ORD10039,2024-07-22,Bonnie Cruz,Electronics,Mobile Phones,10572.32,8.17,9708.56,4,38834.24,21.07,8182.37,4.8,Negative
+ORD10040,2024-05-22,Kyle Jones,Fashion,Men's Clothing,10636.23,20.66,8438.78,3,25316.34,29.73,7526.55,3.3,Negative
+ORD10041,2024-06-09,Tami Guzman,Fashion,Footwear,3054.51,21.78,2389.24,1,2389.24,16.22,387.53,4.6,Negative
+ORD10042,2025-03-16,Dana Rivera,Electronics,Headphones,8073.05,23.49,6176.69,2,12353.38,9.64,1190.87,4.1,Negative
+ORD10043,2024-12-19,Dawn Sanchez,Books,Comics,18027.95,29.07,12787.22,3,38361.66,24.41,9364.08,3.8,Negative
+ORD10044,2025-03-16,John Stewart,Beauty & Personal Care,Makeup,4530.49,10.04,4075.63,5,20378.15,13.75,2802.0,3.9,Neutral
+ORD10045,2024-09-19,Stephanie Boyd,Home & Kitchen,Furniture,6970.88,16.74,5803.95,4,23215.8,29.64,6881.16,3.0,Positive
+ORD10046,2024-11-20,Kristina Dean,Books,Fiction,15806.41,47.46,8304.69,2,16609.38,15.35,2549.54,4.9,Neutral
+ORD10047,2024-08-26,Susan Mcdonald,Fashion,Footwear,5975.97,26.88,4369.63,3,13108.89,18.05,2366.15,2.7,Neutral
+ORD10048,2024-05-07,Michele James,Beauty & Personal Care,Fragrances,48995.47,18.62,39872.51,2,79745.02,15.25,12161.12,4.7,Neutral
+ORD10049,2024-10-31,Teresa Gray,Books,Comics,47030.72,6.65,43903.18,3,131709.54,26.55,34968.88,2.7,Positive
+ORD10050,2024-09-19,Jennifer Bruce,Fashion,Accessories,24035.25,16.21,20139.14,3,60417.42,27.56,16651.04,4.1,Negative
+ORD10051,2024-03-31,Ethan Williams,Fashion,Footwear,34739.06,38.65,21312.41,5,106562.05,15.58,16602.37,2.7,Neutral
+ORD10052,2024-11-26,Jenna Allen,Home & Kitchen,Furniture,30501.78,15.59,25746.55,4,102986.2,12.97,13357.31,3.9,Neutral
+ORD10053,2024-12-01,Michael Bailey,Home & Kitchen,Kitchenware,9257.68,15.79,7795.89,2,15591.78,15.87,2474.42,3.1,Negative
+ORD10054,2024-05-28,Dr. Traci White,Books,Fiction,3888.7,36.99,2450.27,3,7350.81,15.42,1133.49,4.7,Negative
+ORD10055,2024-08-06,Ronald Ruiz,Beauty & Personal Care,Makeup,33998.89,42.25,19634.36,4,78537.44,25.99,20411.88,3.5,Negative
+ORD10056,2025-01-05,Elizabeth Brown,Fashion,Women's Clothing,19555.16,36.2,12476.19,1,12476.19,28.55,3561.95,3.5,Positive
+ORD10057,2024-07-22,Virginia Mccullough,Books,Non-Fiction,35647.9,24.91,26768.01,2,53536.02,13.42,7184.53,4.3,Negative
+ORD10058,2024-09-02,Michelle Jones,Electronics,Mobile Phones,2559.55,22.02,1995.94,1,1995.94,8.38,167.26,4.7,Negative
+ORD10059,2024-04-18,Emily Taylor,Beauty & Personal Care,Fragrances,26879.3,12.23,23591.96,2,47183.92,5.25,2477.16,2.7,Neutral
+ORD10060,2024-08-25,Becky Smith,Home & Kitchen,Kitchenware,20669.03,19.07,16727.45,1,16727.45,22.85,3822.22,3.2,Positive
+ORD10061,2024-04-07,Alexandra Contreras,Beauty & Personal Care,Skincare,12005.63,22.89,9257.54,2,18515.08,5.34,988.71,3.4,Neutral
+ORD10062,2024-06-30,Janet Gray,Fashion,Women's Clothing,28431.92,34.11,18733.79,1,18733.79,25.57,4790.23,3.8,Neutral
+ORD10063,2024-04-15,Kevin Sullivan,Beauty & Personal Care,Skincare,43204.44,26.68,31677.5,1,31677.5,21.18,6709.29,4.7,Neutral
+ORD10064,2024-08-06,Crystal Kelly,Home & Kitchen,Home Decor,35718.59,45.73,19384.48,3,58153.44,18.83,10950.29,2.6,Negative
+ORD10065,2025-03-02,Victoria Smith,Electronics,Mobile Phones,8017.19,39.09,4883.27,3,14649.81,27.47,4024.3,2.7,Positive
+ORD10066,2024-12-01,Deborah Lewis,Home & Kitchen,Home Decor,11052.74,19.74,8870.93,1,8870.93,20.62,1829.19,4.6,Negative
+ORD10067,2024-05-29,Amber Fernandez,Beauty & Personal Care,Haircare,20463.22,40.81,12112.18,2,24224.36,23.03,5578.87,3.3,Positive
+ORD10068,2024-05-05,Amy Glover,Home & Kitchen,Appliances,45442.64,49.28,23048.51,4,92194.04,23.57,21730.14,2.5,Neutral
+ORD10069,2024-06-02,Anthony Jackson,Fashion,Accessories,39837.56,17.05,33045.26,2,66090.52,8.35,5518.56,4.8,Neutral
+ORD10070,2024-06-12,Timothy Romero,Fashion,Footwear,13273.88,45.33,7256.83,2,14513.66,27.92,4052.21,4.2,Neutral
+ORD10071,2024-10-13,Mary Larson,Home & Kitchen,Appliances,22672.25,11.47,20071.74,3,60215.22,24.11,14517.89,3.0,Negative
+ORD10072,2024-12-01,Christopher Pope,Home & Kitchen,Appliances,14533.01,27.76,10498.65,4,41994.6,8.12,3409.96,3.6,Positive
+ORD10073,2025-01-13,Alyssa Baker MD,Electronics,Smartwatches,9528.11,42.19,5508.2,2,11016.4,10.91,1201.89,4.1,Negative
+ORD10074,2025-02-07,Nathan Hernandez,Beauty & Personal Care,Fragrances,40081.52,18.19,32790.69,3,98372.07,12.92,12709.67,2.5,Positive
+ORD10075,2024-11-29,Mark Horne,Books,Non-Fiction,37652.96,25.59,28017.57,4,112070.28,10.58,11857.04,3.2,Negative
+ORD10076,2024-05-17,Kim Fletcher,Beauty & Personal Care,Fragrances,45823.06,41.17,26957.71,4,107830.84,22.08,23809.05,4.4,Neutral
+ORD10077,2024-04-08,Mark Porter,Electronics,Laptops,6853.38,44.91,3775.53,1,3775.53,25.6,966.54,3.8,Neutral
+ORD10078,2024-03-22,Kenneth Hall,Beauty & Personal Care,Haircare,35136.27,32.2,23822.39,5,119111.95,22.65,26978.86,3.4,Negative
+ORD10079,2024-07-24,Eric Robinson,Fashion,Women's Clothing,46546.14,17.77,38274.89,1,38274.89,6.55,2507.01,5.0,Neutral
+ORD10080,2024-11-26,Jacob Cuevas,Fashion,Women's Clothing,8249.33,44.51,4577.55,1,4577.55,11.67,534.2,4.2,Negative
+ORD10081,2024-05-07,Aaron Padilla,Electronics,Headphones,41602.25,43.56,23480.31,4,93921.24,12.21,11467.78,3.1,Neutral
+ORD10082,2024-10-04,James Garza,Electronics,Mobile Phones,36920.77,19.47,29732.3,4,118929.2,15.59,18541.06,4.3,Neutral
+ORD10083,2025-01-27,Keith Collins,Electronics,Headphones,32355.52,6.82,30148.87,2,60297.74,17.12,10322.97,2.9,Negative
+ORD10084,2024-07-02,Christian Barber,Electronics,Smartwatches,29174.14,23.56,22300.71,2,44601.42,21.59,9629.45,3.5,Negative
+ORD10085,2025-01-08,Brian Wilkerson,Beauty & Personal Care,Fragrances,15949.6,34.04,10520.36,2,21040.72,10.95,2303.96,2.8,Positive
+ORD10086,2025-02-12,Mackenzie Snow,Home & Kitchen,Furniture,29013.03,6.87,27019.83,1,27019.83,12.7,3431.52,3.4,Neutral
+ORD10087,2024-08-01,John Bailey,Electronics,Mobile Phones,29437.88,27.01,21486.71,4,85946.84,7.78,6686.66,3.3,Negative
+ORD10088,2025-02-09,James Spencer,Fashion,Men's Clothing,27841.77,43.81,15644.29,2,31288.58,20.18,6314.04,3.5,Positive
+ORD10089,2024-12-16,Dr. Marissa Montoya,Beauty & Personal Care,Makeup,40172.75,34.71,26228.79,3,78686.37,18.73,14737.96,2.7,Neutral
+ORD10090,2024-05-23,James Patterson,Beauty & Personal Care,Makeup,48145.27,40.85,28477.93,4,113911.72,8.13,9261.02,4.0,Positive
+ORD10091,2025-02-02,Alicia Lee,Books,Non-Fiction,15053.36,24.28,11398.4,2,22796.8,5.2,1185.43,4.0,Positive
+ORD10092,2025-03-15,Cynthia Brooks,Beauty & Personal Care,Haircare,49522.67,7.28,45917.42,5,229587.1,17.43,40017.03,4.7,Negative
+ORD10093,2024-12-05,Sarah Ramirez,Beauty & Personal Care,Haircare,2449.43,27.54,1774.86,4,7099.44,8.34,592.09,2.7,Neutral
+ORD10094,2024-09-09,David Solomon,Fashion,Footwear,15425.12,44.98,8486.9,3,25460.7,25.1,6390.64,2.7,Negative
+ORD10095,2024-12-15,Regina Stanley,Electronics,Headphones,27607.05,44.57,15302.59,3,45907.77,13.7,6289.36,3.3,Positive
+ORD10096,2024-05-18,Benjamin Patton Jr.,Electronics,Smartwatches,47084.8,9.64,42545.83,4,170183.32,7.8,13274.3,4.2,Negative
+ORD10097,2024-11-01,Tabitha Carlson,Home & Kitchen,Furniture,518.78,25.25,387.79,3,1163.37,16.59,193.0,4.0,Neutral
+ORD10098,2025-02-24,Michael Cantrell,Electronics,Headphones,14955.09,46.94,7935.17,2,15870.34,10.37,1645.75,4.4,Negative
+ORD10099,2024-05-23,Brittany Blair,Fashion,Men's Clothing,30001.57,28.57,21430.12,1,21430.12,24.2,5186.09,2.7,Negative
+ORD10100,2025-02-24,Angela Jacobson,Books,Fiction,30702.4,48.02,15959.11,1,15959.11,26.41,4214.8,4.2,Positive
+ORD10101,2024-06-19,Jason Hamilton,Beauty & Personal Care,Makeup,22319.48,21.16,17596.68,4,70386.72,14.54,10234.23,3.2,Negative
+ORD10102,2024-08-11,Amber Barnes,Fashion,Women's Clothing,37173.75,27.95,26783.69,5,133918.45,27.89,37349.86,2.6,Neutral
+ORD10103,2024-05-28,Andrew Ferguson,Beauty & Personal Care,Fragrances,8134.8,41.36,4770.25,3,14310.75,26.55,3799.5,4.0,Positive
+ORD10104,2025-02-28,Selena Calderon,Fashion,Accessories,7886.15,37.13,4958.02,5,24790.1,26.22,6499.96,4.5,Positive
+ORD10105,2024-05-05,Dennis Conley,Home & Kitchen,Appliances,2698.83,30.09,1886.75,2,3773.5,21.66,817.34,4.5,Positive
+ORD10106,2024-11-24,Erin Fisher,Electronics,Laptops,43657.85,42.23,25221.14,2,50442.28,9.32,4701.22,5.0,Neutral
+ORD10107,2024-08-21,Dorothy Thompson,Beauty & Personal Care,Skincare,40590.87,12.46,35533.25,2,71066.5,8.62,6125.93,4.7,Positive
+ORD10108,2024-10-18,Frank Logan,Home & Kitchen,Kitchenware,3458.39,17.15,2865.28,5,14326.4,6.26,896.83,3.3,Positive
+ORD10109,2024-09-22,Stephen Padilla,Beauty & Personal Care,Skincare,37822.1,32.5,25529.92,4,102119.68,27.16,27735.71,3.4,Neutral
+ORD10110,2024-05-04,Barbara Rosales,Fashion,Accessories,3320.83,38.01,2058.58,2,4117.16,22.95,944.89,4.9,Negative
+ORD10111,2024-08-21,Ashley Guzman,Beauty & Personal Care,Haircare,8749.8,22.36,6793.34,1,6793.34,24.2,1643.99,3.3,Negative
+ORD10112,2025-02-08,Cindy Ramirez,Home & Kitchen,Kitchenware,38014.02,24.01,28886.85,4,115547.4,10.7,12363.57,4.0,Negative
+ORD10113,2024-04-15,Jennifer Marshall,Beauty & Personal Care,Skincare,29601.46,15.58,24989.55,1,24989.55,20.68,5167.84,3.6,Positive
+ORD10114,2024-04-27,Beth Ward,Fashion,Women's Clothing,26412.83,9.41,23927.38,3,71782.14,21.92,15734.65,3.3,Negative
+ORD10115,2024-08-03,Kelli Wright,Home & Kitchen,Furniture,25022.61,32.65,16852.73,3,50558.19,24.04,12154.19,2.6,Negative
+ORD10116,2024-12-06,William Morton,Home & Kitchen,Furniture,32336.73,44.85,17833.71,2,35667.42,15.85,5653.29,3.5,Positive
+ORD10117,2024-09-16,Melissa Jones,Beauty & Personal Care,Fragrances,23976.69,6.31,22463.76,5,112318.8,14.82,16645.65,4.2,Negative
+ORD10118,2025-03-14,Anthony Welch,Electronics,Laptops,49682.92,5.91,46746.66,1,46746.66,29.3,13696.77,4.5,Negative
+ORD10119,2024-11-11,Robin Collins,Books,Comics,37035.14,41.11,21809.99,5,109049.95,25.48,27785.93,3.8,Positive
+ORD10120,2024-10-20,Joseph Moore,Books,Comics,21913.0,24.52,16539.93,1,16539.93,11.07,1830.97,4.6,Positive
+ORD10121,2024-12-16,April Good,Home & Kitchen,Kitchenware,34320.47,45.92,18560.51,3,55681.53,10.97,6108.26,2.8,Negative
+ORD10122,2025-01-29,Pamela Mcbride DVM,Fashion,Men's Clothing,14093.95,32.43,9523.28,2,19046.56,13.45,2561.76,2.9,Negative
+ORD10123,2025-01-18,Nicole Salinas,Books,Non-Fiction,45629.7,11.89,40204.33,1,40204.33,28.51,11462.25,4.6,Neutral
+ORD10124,2024-06-17,Laurie Jones,Electronics,Laptops,20121.52,11.18,17871.93,1,17871.93,8.34,1490.52,4.5,Negative
+ORD10125,2024-12-24,Joshua Weeks,Fashion,Men's Clothing,48932.38,21.61,38358.09,3,115074.27,17.57,20218.55,3.6,Neutral
+ORD10126,2024-10-03,Kenneth Baird,Beauty & Personal Care,Makeup,46684.64,7.59,43141.28,1,43141.28,11.67,5034.59,2.9,Negative
+ORD10127,2025-01-07,Mary Miller,Home & Kitchen,Appliances,20975.01,36.66,13285.57,2,26571.14,15.85,4211.53,2.8,Negative
+ORD10128,2024-05-28,Alyssa Sosa,Books,Non-Fiction,2726.35,5.29,2582.13,5,12910.65,29.02,3746.67,3.8,Positive
+ORD10129,2024-07-28,Heidi Simmons,Electronics,Mobile Phones,29184.65,19.54,23481.97,1,23481.97,24.79,5821.18,4.6,Neutral
+ORD10130,2024-06-16,Anita Oliver,Electronics,Smartwatches,576.0,34.76,375.78,2,751.56,12.71,95.52,3.0,Positive
+ORD10131,2024-05-08,Alan Richardson,Fashion,Footwear,21489.98,27.94,15485.68,4,61942.72,18.66,11558.51,4.3,Neutral
+ORD10132,2024-09-14,Kristen Collins,Books,Fiction,863.1,33.62,572.93,2,1145.86,16.07,184.14,4.5,Positive
+ORD10133,2024-06-20,Bethany Burton,Beauty & Personal Care,Haircare,12222.74,21.22,9629.07,4,38516.28,16.45,6335.93,3.8,Negative
+ORD10134,2024-07-08,Beth Simmons,Electronics,Laptops,8849.0,31.36,6073.95,1,6073.95,25.12,1525.78,4.8,Neutral
+ORD10135,2024-11-25,Dean Keller,Fashion,Men's Clothing,18760.21,32.53,12657.51,5,63287.55,12.83,8119.79,4.7,Neutral
+ORD10136,2024-05-18,Victoria Shields,Beauty & Personal Care,Fragrances,17987.53,26.81,13165.07,2,26330.14,20.75,5463.5,3.6,Neutral
+ORD10137,2024-07-08,Danielle Campbell,Books,Non-Fiction,42829.22,28.54,30605.76,4,122423.04,27.96,34229.48,4.1,Positive
+ORD10138,2024-11-28,Frank Jones,Books,Comics,38874.44,23.72,29653.42,5,148267.1,11.24,16665.22,4.2,Negative
+ORD10139,2025-01-26,Stephanie Ho,Electronics,Smartwatches,28072.74,18.83,22786.64,5,113933.2,7.44,8476.63,4.4,Positive
+ORD10140,2024-07-15,Sharon Shields,Home & Kitchen,Kitchenware,42440.19,43.01,24186.66,3,72559.98,29.03,21064.16,3.1,Negative
+ORD10141,2024-06-26,Thomas Jones,Fashion,Men's Clothing,29352.39,28.15,21089.69,5,105448.45,5.09,5367.33,3.4,Positive
+ORD10142,2024-12-19,Jamie Booth,Beauty & Personal Care,Fragrances,37497.1,5.04,35607.25,2,71214.5,9.4,6694.16,3.8,Positive
+ORD10143,2024-07-21,Andrea Roberts,Electronics,Laptops,2474.64,5.47,2339.28,3,7017.84,26.03,1826.74,4.7,Positive
+ORD10144,2024-05-05,Nicholas Taylor,Home & Kitchen,Furniture,44504.31,43.52,25136.03,3,75408.09,26.42,19922.82,4.1,Neutral
+ORD10145,2025-01-23,Ariana Hawkins,Fashion,Men's Clothing,12935.63,11.81,11407.93,1,11407.93,28.39,3238.71,4.6,Positive
+ORD10146,2024-05-21,Mark Boone,Beauty & Personal Care,Fragrances,44623.83,13.9,38421.12,3,115263.36,7.46,8598.65,3.1,Negative
+ORD10147,2024-12-16,Mr. Daniel Mcmillan,Books,Comics,26261.54,26.02,19428.29,3,58284.87,19.41,11313.09,3.6,Neutral
+ORD10148,2024-08-14,Eric Herrera,Beauty & Personal Care,Makeup,22989.82,45.75,12471.98,2,24943.96,10.78,2688.96,2.6,Neutral
+ORD10149,2024-06-14,Megan Gentry,Fashion,Footwear,32987.54,43.16,18750.12,1,18750.12,27.02,5066.28,2.7,Positive
+ORD10150,2024-11-21,Derrick Anderson MD,Home & Kitchen,Furniture,48686.47,28.01,35049.39,5,175246.95,8.72,15281.53,4.3,Negative
+ORD10151,2024-06-18,Phillip Fritz,Books,Non-Fiction,42396.89,17.11,35142.78,2,70285.56,19.07,13403.46,3.4,Negative
+ORD10152,2024-06-27,Kelly Valencia,Electronics,Mobile Phones,15084.85,14.59,12883.97,3,38651.91,29.06,11232.25,5.0,Positive
+ORD10153,2024-10-21,Dawn Garcia,Home & Kitchen,Kitchenware,10191.99,36.94,6427.07,4,25708.28,28.07,7216.31,4.0,Neutral
+ORD10154,2024-09-08,Ryan Walker,Beauty & Personal Care,Fragrances,2169.03,19.65,1742.82,5,8714.1,14.11,1229.56,4.3,Neutral
+ORD10155,2025-02-24,Brenda Santos,Electronics,Mobile Phones,28055.11,18.89,22755.5,2,45511.0,8.12,3695.49,4.8,Negative
+ORD10156,2024-05-15,Patrick Edwards,Fashion,Men's Clothing,32572.86,39.72,19634.92,5,98174.6,11.59,11378.44,2.5,Negative
+ORD10157,2025-03-03,Joshua White,Beauty & Personal Care,Makeup,5115.72,6.53,4781.66,1,4781.66,27.76,1327.39,4.4,Neutral
+ORD10158,2024-11-25,Stephanie Acosta DVM,Electronics,Smartwatches,41198.35,48.22,21332.51,3,63997.53,15.47,9900.42,3.1,Neutral
+ORD10159,2024-09-21,Michelle Keller,Electronics,Headphones,34427.27,20.02,27534.93,5,137674.65,11.41,15708.68,4.3,Positive
+ORD10160,2024-12-23,Michael Dennis,Fashion,Footwear,42294.45,6.62,39494.56,3,118483.68,10.92,12938.42,4.7,Negative
+ORD10161,2024-11-29,Sarah Wright,Beauty & Personal Care,Fragrances,9981.26,24.44,7541.84,5,37709.2,10.17,3835.03,3.6,Positive
+ORD10162,2024-06-15,Tanya Watts,Beauty & Personal Care,Haircare,37337.13,40.03,22391.08,4,89564.32,19.0,17017.22,2.8,Negative
+ORD10163,2025-01-13,Emily Benson,Fashion,Women's Clothing,40835.78,8.84,37225.9,3,111677.7,17.42,19454.26,3.2,Neutral
+ORD10164,2024-11-02,Nathaniel Farrell,Books,Fiction,28540.14,12.36,25012.58,3,75037.74,13.22,9919.99,4.0,Neutral
+ORD10165,2024-08-07,Jocelyn Walters,Electronics,Headphones,48340.04,22.68,37376.52,5,186882.6,7.8,14576.84,4.3,Neutral
+ORD10166,2025-02-21,Ryan Campbell,Beauty & Personal Care,Haircare,43017.48,13.62,37158.5,5,185792.5,21.84,40577.08,5.0,Neutral
+ORD10167,2024-04-06,Thomas Oliver,Beauty & Personal Care,Haircare,3309.6,40.07,1983.44,3,5950.32,28.99,1725.0,2.8,Positive
+ORD10168,2024-08-12,Jessica Lara,Books,Non-Fiction,20255.16,8.47,18539.55,5,92697.75,28.85,26743.3,3.2,Negative
+ORD10169,2024-09-29,Zachary Santos,Beauty & Personal Care,Makeup,40076.6,23.21,30774.82,1,30774.82,11.44,3520.64,3.8,Positive
+ORD10170,2024-11-16,Javier Wong,Beauty & Personal Care,Fragrances,5382.47,11.37,4770.48,3,14311.44,16.32,2335.63,4.1,Neutral
+ORD10171,2025-01-01,Andrew Henderson,Beauty & Personal Care,Skincare,22802.63,26.6,16737.13,2,33474.26,29.9,10008.8,3.5,Positive
+ORD10172,2024-11-03,Trevor Sullivan,Electronics,Smartwatches,25783.04,37.3,16165.97,5,80829.85,19.04,15390.0,5.0,Negative
+ORD10173,2024-04-17,William Patel,Books,Educational,11769.74,14.83,10024.29,5,50121.45,7.99,4004.7,3.4,Negative
+ORD10174,2024-09-22,Mark Hill,Electronics,Mobile Phones,42292.24,45.78,22930.85,5,114654.25,8.68,9951.99,4.5,Positive
+ORD10175,2024-05-05,Christopher Reed,Home & Kitchen,Furniture,38016.17,10.8,33910.42,1,33910.42,8.29,2811.17,2.6,Neutral
+ORD10176,2025-01-31,Kevin Morgan,Beauty & Personal Care,Fragrances,26942.8,31.23,18528.56,5,92642.8,6.03,5586.36,4.3,Neutral
+ORD10177,2025-02-17,Lisa Thomas,Electronics,Smartwatches,38894.54,37.74,24215.74,4,96862.96,15.8,15304.35,3.7,Positive
+ORD10178,2025-02-18,Richard Garcia,Fashion,Men's Clothing,35038.34,26.91,25609.52,1,25609.52,22.19,5682.75,4.8,Negative
+ORD10179,2024-05-13,Elizabeth Williams,Books,Comics,33097.68,44.04,18521.46,4,74085.84,8.5,6297.3,5.0,Neutral
+ORD10180,2024-06-25,Mallory Davis,Beauty & Personal Care,Makeup,38571.27,11.78,34027.57,5,170137.85,25.11,42721.61,3.0,Neutral
+ORD10181,2024-07-06,Jennifer Miller,Electronics,Headphones,47063.25,46.07,25381.21,5,126906.05,5.45,6916.38,4.3,Positive
+ORD10182,2024-09-16,Mark Cruz,Electronics,Laptops,38672.07,9.63,34947.95,4,139791.8,28.84,40315.96,3.7,Negative
+ORD10183,2025-02-23,Bradley Chavez,Fashion,Men's Clothing,4205.65,37.48,2629.37,4,10517.48,7.06,742.53,4.7,Negative
+ORD10184,2024-10-16,Timothy Farley,Home & Kitchen,Appliances,34065.93,44.11,19039.45,1,19039.45,18.94,3606.07,2.6,Negative
+ORD10185,2024-12-22,Jennifer Austin,Beauty & Personal Care,Fragrances,37624.21,9.75,33955.85,1,33955.85,5.45,1850.59,4.5,Negative
+ORD10186,2024-11-04,Joseph Ware,Books,Comics,15876.44,27.58,11497.72,4,45990.88,9.14,4203.57,3.1,Positive
+ORD10187,2025-03-14,Cesar Poole,Books,Educational,42699.26,44.69,23616.96,4,94467.84,19.34,18270.08,4.5,Positive
+ORD10188,2025-02-28,Ashley Campbell,Beauty & Personal Care,Fragrances,14373.01,49.55,7251.18,4,29004.72,28.79,8350.46,4.4,Negative
+ORD10189,2025-01-06,Alicia Maddox,Books,Fiction,29152.18,45.57,15867.53,5,79337.65,25.4,20151.76,2.6,Negative
+ORD10190,2025-01-04,Eduardo Lewis,Electronics,Mobile Phones,9658.97,14.77,8232.34,2,16464.68,11.97,1970.82,2.9,Negative
+ORD10191,2024-08-06,Mackenzie Nguyen,Books,Non-Fiction,35760.49,49.62,18016.13,2,36032.26,19.96,7192.04,4.0,Positive
+ORD10192,2025-03-17,Christian Simmons,Home & Kitchen,Kitchenware,21054.77,15.68,17753.38,4,71013.52,27.54,19557.12,3.3,Neutral
+ORD10193,2024-12-19,Joshua Higgins,Home & Kitchen,Kitchenware,29074.31,35.47,18761.65,2,37523.3,27.95,10487.76,2.6,Negative
+ORD10194,2024-12-04,Brian Michael,Electronics,Laptops,30013.53,32.84,20157.09,4,80628.36,16.66,13432.68,4.0,Positive
+ORD10195,2024-08-06,Amber Moore,Fashion,Men's Clothing,36708.8,6.24,34418.17,1,34418.17,21.53,7410.23,4.0,Negative
+ORD10196,2024-09-24,Benjamin Young,Books,Non-Fiction,25503.79,43.75,14345.88,1,14345.88,6.71,962.61,4.9,Neutral
+ORD10197,2024-11-15,Lisa Clark,Electronics,Headphones,10037.49,43.98,5623.0,5,28115.0,9.83,2763.7,4.1,Positive
+ORD10198,2024-04-11,Jennifer Hughes,Fashion,Accessories,38286.46,44.18,21371.5,1,21371.5,14.9,3184.35,4.5,Neutral
+ORD10199,2025-02-23,Donna Cain,Fashion,Footwear,49359.48,34.73,32216.93,4,128867.72,24.0,30928.25,3.7,Neutral
+ORD10200,2025-02-27,Mr. Jeffrey Crosby II,Fashion,Accessories,43919.22,49.69,22095.76,3,66287.28,16.21,10745.17,4.8,Positive
+ORD10201,2024-10-17,Erin Allen,Fashion,Footwear,449.18,11.15,399.1,3,1197.3,24.75,296.33,3.7,Positive
+ORD10202,2024-08-14,Jodi Burton,Fashion,Accessories,43767.59,17.48,36117.02,4,144468.08,13.12,18954.21,4.8,Negative
+ORD10203,2024-03-30,Kimberly Yang,Electronics,Smartwatches,36660.36,15.65,30923.01,1,30923.01,9.86,3049.01,3.0,Positive
+ORD10204,2024-05-09,Todd Smith,Home & Kitchen,Kitchenware,25274.7,13.9,21761.52,1,21761.52,24.35,5298.93,4.3,Positive
+ORD10205,2025-01-31,Breanna Wilson,Books,Comics,18911.24,39.46,11448.86,4,45795.44,23.64,10826.04,4.9,Positive
+ORD10206,2024-08-19,Susan Guzman,Fashion,Accessories,6166.95,33.97,4072.04,5,20360.2,9.96,2027.88,2.8,Positive
+ORD10207,2024-07-30,Fred Holt,Books,Comics,35714.95,7.99,32861.33,3,98583.99,21.46,21156.12,3.6,Neutral
+ORD10208,2024-10-12,Billy Ochoa,Electronics,Mobile Phones,9573.72,49.06,4876.85,1,4876.85,28.5,1389.9,3.7,Negative
+ORD10209,2024-07-06,Mr. Robert Frye,Books,Non-Fiction,18219.78,35.9,11678.88,2,23357.76,7.51,1754.17,2.8,Negative
+ORD10210,2024-05-15,Olivia Lowery,Books,Educational,18807.98,46.82,10002.08,2,20004.16,25.37,5075.06,3.4,Neutral
+ORD10211,2024-06-20,Tabitha Gonzalez,Books,Non-Fiction,38630.0,17.51,31865.89,5,159329.45,24.13,38446.2,2.8,Negative
+ORD10212,2024-10-14,Justin Nelson,Fashion,Women's Clothing,1771.27,28.3,1270.0,1,1270.0,13.73,174.37,3.6,Negative
+ORD10213,2025-02-23,John Hicks,Electronics,Laptops,16985.1,23.06,13068.34,5,65341.7,11.11,7259.46,3.1,Neutral
+ORD10214,2025-03-06,Jordan Williams,Home & Kitchen,Appliances,21816.55,30.5,15162.5,1,15162.5,20.34,3084.05,3.0,Neutral
+ORD10215,2024-12-01,Amy Jones,Books,Educational,25608.14,23.11,19690.1,2,39380.2,9.16,3607.23,3.8,Negative
+ORD10216,2024-05-22,Benjamin Martinez,Electronics,Headphones,19755.8,5.13,18742.33,5,93711.65,20.84,19529.51,4.7,Positive
+ORD10217,2025-01-09,Benjamin Oliver,Electronics,Headphones,9124.64,10.1,8203.05,5,41015.25,12.71,5213.04,3.8,Neutral
+ORD10218,2024-03-17,Alexander Martinez,Fashion,Men's Clothing,47868.78,18.68,38926.89,4,155707.56,17.79,27700.37,4.1,Neutral
+ORD10219,2024-06-20,Michael Miller,Electronics,Mobile Phones,16983.39,38.13,10507.62,3,31522.86,26.39,8318.88,3.0,Negative
+ORD10220,2025-01-28,Bryan Kim Jr.,Books,Fiction,36675.22,24.84,27565.1,2,55130.2,23.87,13159.58,4.0,Positive
+ORD10221,2025-01-23,Jose Cabrera,Fashion,Accessories,2473.71,8.44,2264.93,3,6794.79,18.16,1233.93,4.8,Neutral
+ORD10222,2024-08-25,Matthew Morris,Beauty & Personal Care,Fragrances,2325.47,49.85,1166.22,1,1166.22,16.06,187.29,3.6,Neutral
+ORD10223,2024-04-12,Joshua Gomez,Books,Fiction,15292.95,41.43,8957.08,4,35828.32,10.34,3704.65,3.4,Negative
+ORD10224,2024-04-28,Ryan Frank,Beauty & Personal Care,Haircare,39785.31,24.26,30133.39,4,120533.56,25.53,30772.22,2.8,Neutral
+ORD10225,2025-01-16,Claire Schwartz,Beauty & Personal Care,Makeup,30049.92,31.87,20473.01,2,40946.02,6.28,2571.41,4.3,Negative
+ORD10226,2024-10-11,Tracie Patrick,Home & Kitchen,Kitchenware,3309.05,21.2,2607.53,4,10430.12,27.97,2917.3,3.9,Negative
+ORD10227,2024-04-24,Bradley Clark,Home & Kitchen,Furniture,9019.67,38.53,5544.39,1,5544.39,7.78,431.35,3.9,Positive
+ORD10228,2024-05-16,Janet Marshall,Electronics,Headphones,39804.01,27.09,29021.1,5,145105.5,8.37,12145.33,4.4,Positive
+ORD10229,2024-03-23,Megan Shannon,Electronics,Smartwatches,26893.28,40.82,15915.44,5,79577.2,8.91,7090.33,3.8,Negative
+ORD10230,2024-08-08,Jesse Long,Books,Non-Fiction,46814.7,21.64,36684.0,5,183420.0,17.22,31584.92,3.4,Positive
+ORD10231,2024-04-09,Kenneth Wagner,Fashion,Men's Clothing,4603.5,30.9,3181.02,1,3181.02,7.67,243.98,3.6,Negative
+ORD10232,2024-09-08,Maria Sandoval,Beauty & Personal Care,Haircare,25199.28,35.91,16150.22,1,16150.22,20.75,3351.17,2.7,Positive
+ORD10233,2024-04-14,Colleen Stewart,Beauty & Personal Care,Makeup,39052.4,19.25,31534.81,2,63069.62,21.53,13578.89,3.2,Neutral
+ORD10234,2024-09-28,Christopher Durham,Books,Comics,8805.6,38.09,5451.55,2,10903.1,20.3,2213.33,5.0,Positive
+ORD10235,2024-03-28,Robert Romero,Fashion,Footwear,8050.14,34.14,5301.82,1,5301.82,24.76,1312.73,3.1,Neutral
+ORD10236,2024-11-11,Margaret Ray,Books,Non-Fiction,16104.88,25.77,11954.65,2,23909.3,15.78,3772.89,4.1,Positive
+ORD10237,2024-07-28,Tracy West,Electronics,Laptops,1753.2,14.24,1503.54,3,4510.62,7.36,331.98,3.7,Positive
+ORD10238,2024-12-14,Casey Jensen,Books,Educational,13436.54,21.42,10558.43,4,42233.72,24.92,10524.64,4.7,Negative
+ORD10239,2024-05-25,James Townsend,Electronics,Laptops,26782.33,18.57,21808.85,4,87235.4,26.56,23169.72,3.7,Neutral
+ORD10240,2024-11-04,Carrie Nguyen,Books,Educational,11116.7,24.18,8428.68,1,8428.68,8.78,740.04,3.5,Positive
+ORD10241,2025-01-15,Matthew Hunter,Home & Kitchen,Appliances,23194.37,39.34,14069.7,1,14069.7,21.08,2965.89,4.6,Positive
+ORD10242,2024-09-04,Aaron Parker,Fashion,Women's Clothing,38134.31,13.7,32909.91,4,131639.64,18.3,24090.05,3.4,Neutral
+ORD10243,2024-10-23,Donald Peters,Books,Educational,39100.47,20.16,31217.82,4,124871.28,18.44,23026.26,3.3,Negative
+ORD10244,2024-07-21,Kevin Jackson,Beauty & Personal Care,Haircare,32378.72,7.64,29904.99,5,149524.95,18.68,27931.26,4.0,Neutral
+ORD10245,2024-07-27,Alyssa Maldonado,Home & Kitchen,Appliances,32640.08,17.06,27071.68,3,81215.04,13.11,10647.29,5.0,Positive
+ORD10246,2024-07-27,Mr. Joseph Ward Jr.,Books,Educational,49461.07,47.92,25759.33,5,128796.65,23.82,30679.36,2.7,Neutral
+ORD10247,2024-09-29,Tammy Duran,Books,Fiction,30542.96,36.56,19376.45,3,58129.35,15.53,9027.49,3.7,Negative
+ORD10248,2025-02-24,Richard Marshall,Beauty & Personal Care,Fragrances,24890.86,6.7,23223.17,2,46446.34,13.01,6042.67,3.6,Neutral
+ORD10249,2024-04-03,Morgan Chaney,Fashion,Accessories,18148.61,40.41,10814.76,1,10814.76,19.27,2084.0,3.6,Positive
+ORD10250,2024-07-25,Jon Ramos,Books,Non-Fiction,38874.44,22.75,30030.5,4,120122.0,24.8,29790.26,3.6,Neutral
+ORD10251,2024-08-14,Emily Sawyer,Electronics,Laptops,44629.69,33.63,29620.73,5,148103.65,24.19,35826.27,4.6,Positive
+ORD10252,2024-12-27,Peter Bowen,Beauty & Personal Care,Haircare,8247.28,45.51,4493.94,5,22469.7,5.56,1249.32,3.2,Negative
+ORD10253,2024-12-20,Tyler Le,Fashion,Accessories,9032.03,17.54,7447.81,2,14895.62,22.7,3381.31,3.0,Positive
+ORD10254,2024-07-17,Timothy Key,Fashion,Men's Clothing,13647.41,45.41,7450.12,2,14900.24,20.86,3108.19,3.4,Neutral
+ORD10255,2024-03-19,Jeffery Campbell,Books,Non-Fiction,607.54,7.9,559.54,1,559.54,24.25,135.69,4.5,Negative
+ORD10256,2024-08-22,Jacob Jacobs,Beauty & Personal Care,Haircare,7964.64,42.79,4556.57,1,4556.57,24.06,1096.31,2.8,Negative
+ORD10257,2025-02-13,Michael Novak,Electronics,Mobile Phones,9677.6,36.86,6110.44,4,24441.76,22.23,5433.4,4.5,Positive
+ORD10258,2024-05-31,Anthony White DDS,Home & Kitchen,Home Decor,17778.31,42.07,10298.97,4,41195.88,18.72,7711.87,3.7,Neutral
+ORD10259,2024-07-01,Ryan Larsen,Beauty & Personal Care,Skincare,35918.91,21.42,28225.08,3,84675.24,7.76,6570.8,2.8,Positive
+ORD10260,2024-07-29,Gary Nelson,Fashion,Men's Clothing,20887.69,16.73,17393.18,5,86965.9,20.8,18088.91,4.3,Negative
+ORD10261,2024-10-06,Felicia Lopez,Home & Kitchen,Kitchenware,35813.61,44.43,19901.62,4,79606.48,8.12,6464.05,4.2,Positive
+ORD10262,2024-12-08,Robert Jones,Electronics,Mobile Phones,16114.45,14.14,13835.87,3,41507.61,12.64,5246.56,3.7,Positive
+ORD10263,2025-02-01,David Thomas,Electronics,Laptops,32282.64,15.95,27133.56,2,54267.12,25.7,13946.65,4.8,Negative
+ORD10264,2024-04-12,Cory Greene,Fashion,Footwear,24050.18,29.47,16962.59,2,33925.18,27.48,9322.64,4.4,Negative
+ORD10265,2024-09-04,Candace Howell,Books,Comics,32087.67,12.09,28208.27,5,141041.35,24.26,34216.63,3.1,Negative
+ORD10266,2024-04-11,Christopher Wallace,Electronics,Smartwatches,6738.28,14.96,5730.23,3,17190.69,5.11,878.44,4.5,Neutral
+ORD10267,2025-01-06,Natalie Werner,Fashion,Men's Clothing,24635.14,16.16,20654.1,3,61962.3,11.9,7373.51,2.7,Neutral
+ORD10268,2025-03-13,Blake Brown,Home & Kitchen,Kitchenware,46017.4,34.49,30146.0,3,90438.0,18.8,17002.34,4.3,Neutral
+ORD10269,2024-08-19,Brianna Rivera,Fashion,Footwear,2262.75,34.29,1486.85,3,4460.55,19.71,879.17,2.7,Positive
+ORD10270,2024-03-24,Jacob Boone,Fashion,Men's Clothing,32336.57,11.53,28608.16,5,143040.8,18.79,26877.37,4.7,Negative
+ORD10271,2024-04-22,Tammy Brown,Books,Non-Fiction,33037.98,18.34,26978.81,3,80936.43,23.85,19303.34,3.6,Neutral
+ORD10272,2024-09-28,Tammie Dennis,Home & Kitchen,Furniture,2709.99,42.45,1559.6,1,1559.6,23.0,358.71,3.8,Positive
+ORD10273,2025-02-20,Brianna Hoffman,Fashion,Accessories,8002.83,46.76,4260.71,5,21303.55,10.96,2334.87,2.7,Negative
+ORD10274,2024-07-04,Deborah Watkins,Beauty & Personal Care,Makeup,31723.27,32.04,21559.13,1,21559.13,23.19,4999.56,5.0,Neutral
+ORD10275,2025-02-28,Brian Welch,Fashion,Accessories,38223.92,19.32,30839.06,5,154195.3,20.27,31255.39,4.7,Positive
+ORD10276,2025-01-11,Matthew Barrett,Fashion,Men's Clothing,23022.23,30.47,16007.36,1,16007.36,6.76,1082.1,3.5,Positive
+ORD10277,2024-04-01,Courtney Wright,Home & Kitchen,Kitchenware,22740.22,9.48,20584.45,1,20584.45,17.72,3647.56,2.7,Negative
+ORD10278,2024-05-25,David Williams,Beauty & Personal Care,Fragrances,20039.55,38.85,12254.18,1,12254.18,23.79,2915.27,4.5,Negative
+ORD10279,2024-10-29,Steven Byrd,Fashion,Men's Clothing,33149.98,36.05,21199.41,2,42398.82,12.32,5223.53,3.7,Neutral
+ORD10280,2024-05-27,Daniel Jones,Books,Educational,20604.18,21.51,16172.22,1,16172.22,20.73,3352.5,2.6,Neutral
+ORD10281,2024-05-03,Edward Dawson,Electronics,Mobile Phones,1548.65,18.44,1263.08,4,5052.32,24.49,1237.31,4.9,Neutral
+ORD10282,2025-02-01,Suzanne Riggs,Home & Kitchen,Kitchenware,14994.12,9.03,13640.15,1,13640.15,24.84,3388.21,4.4,Positive
+ORD10283,2024-07-03,Curtis Peters,Fashion,Footwear,15518.86,49.26,7874.27,1,7874.27,12.06,949.64,3.3,Neutral
+ORD10284,2024-04-01,Katherine Phillips,Beauty & Personal Care,Makeup,18202.31,17.62,14995.06,5,74975.3,12.47,9349.42,4.4,Negative
+ORD10285,2024-12-21,Anthony Adams,Books,Comics,6514.82,37.19,4091.96,1,4091.96,17.49,715.68,2.9,Neutral
+ORD10286,2024-08-02,Kelly Bentley,Fashion,Men's Clothing,37092.71,32.51,25033.87,1,25033.87,19.42,4861.58,3.1,Neutral
+ORD10287,2024-11-12,Erik Barber,Home & Kitchen,Home Decor,29864.47,16.96,24799.46,3,74398.38,11.51,8563.25,3.6,Negative
+ORD10288,2024-08-09,Charles Barrett,Electronics,Laptops,39179.87,28.43,28041.03,4,112164.12,12.22,13706.46,2.7,Negative
+ORD10289,2025-03-02,Joshua Gonzalez,Electronics,Laptops,37786.43,39.02,23042.17,4,92168.68,29.42,27116.03,3.3,Negative
+ORD10290,2024-11-16,Andrea Adams,Home & Kitchen,Kitchenware,18949.79,30.72,13128.41,1,13128.41,29.91,3926.71,4.6,Positive
+ORD10291,2024-10-11,Melissa Harper,Beauty & Personal Care,Haircare,4961.75,23.75,3783.33,4,15133.32,5.53,836.87,3.3,Negative
+ORD10292,2024-03-20,Christina Mcintosh,Books,Educational,34752.68,41.46,20344.22,5,101721.1,27.6,28075.02,2.6,Negative
+ORD10293,2024-08-23,Adam Russell,Fashion,Accessories,24497.33,46.77,13039.93,2,26079.86,24.22,6316.54,3.2,Positive
+ORD10294,2024-11-05,Danielle Dunlap,Books,Educational,45037.58,10.69,40223.06,3,120669.18,29.1,35114.73,4.1,Neutral
+ORD10295,2024-12-14,Calvin Morris,Books,Educational,31034.45,28.03,22335.49,4,89341.96,5.4,4824.47,3.2,Negative
+ORD10296,2024-04-05,Ryan Garrett,Home & Kitchen,Appliances,47139.0,43.65,26562.83,3,79688.49,17.13,13650.64,4.3,Neutral
+ORD10297,2025-01-13,Kimberly Snyder,Fashion,Men's Clothing,35241.05,41.4,20651.26,4,82605.04,27.33,22575.96,4.0,Positive
+ORD10298,2024-05-31,Jeremy Alexander,Fashion,Men's Clothing,32958.51,21.35,25921.87,3,77765.61,13.42,10436.14,4.0,Negative
+ORD10299,2024-12-26,Sarah Lopez,Home & Kitchen,Appliances,42068.55,19.34,33932.49,5,169662.45,5.42,9195.7,2.7,Positive
+ORD10300,2024-10-09,Paula Jenkins,Books,Educational,29162.53,32.3,19743.03,1,19743.03,11.48,2266.5,3.0,Neutral
+ORD10301,2024-11-13,Phyllis Oconnell,Electronics,Mobile Phones,38222.23,35.67,24588.36,2,49176.72,25.84,12707.26,4.0,Neutral
+ORD10302,2024-05-08,James Smith,Beauty & Personal Care,Haircare,46539.22,35.33,30096.91,5,150484.55,12.41,18675.13,4.8,Negative
+ORD10303,2024-10-14,Karen Nelson,Beauty & Personal Care,Skincare,28649.41,24.45,21644.63,3,64933.89,22.77,14785.45,4.9,Positive
+ORD10304,2024-06-25,Brandon Ferguson,Electronics,Headphones,23171.28,16.07,19447.66,4,77790.64,16.7,12991.04,3.9,Negative
+ORD10305,2024-07-04,Stephanie Bell DVM,Electronics,Laptops,27025.65,32.85,18147.72,2,36295.44,15.91,5774.6,4.0,Negative
+ORD10306,2024-12-22,William Wilcox,Electronics,Headphones,27092.61,32.24,18357.95,5,91789.75,25.36,23277.88,4.8,Positive
+ORD10307,2025-01-28,Laura Guerrero,Fashion,Men's Clothing,20657.69,46.02,11151.02,4,44604.08,26.37,11762.1,4.6,Negative
+ORD10308,2024-11-21,Nathan Holland,Fashion,Women's Clothing,26845.71,6.46,25111.48,5,125557.4,25.76,32343.59,4.6,Neutral
+ORD10309,2024-12-09,Jill Jenkins,Home & Kitchen,Appliances,29777.14,34.54,19492.12,4,77968.48,7.84,6112.73,3.6,Negative
+ORD10310,2024-10-15,Joel Kelly,Beauty & Personal Care,Makeup,9649.19,39.48,5839.69,1,5839.69,10.0,583.97,3.2,Negative
+ORD10311,2024-12-21,Hannah Clark,Home & Kitchen,Appliances,23880.02,38.3,14733.97,1,14733.97,16.88,2487.09,3.4,Neutral
+ORD10312,2024-08-10,Sarah Campos,Books,Educational,8937.53,20.52,7103.55,1,7103.55,21.15,1502.4,4.5,Positive
+ORD10313,2024-10-28,Sean Floyd,Beauty & Personal Care,Fragrances,3771.84,6.94,3510.07,1,3510.07,8.99,315.56,4.5,Positive
+ORD10314,2024-05-21,Jose Woodard,Fashion,Men's Clothing,44130.3,23.02,33971.5,2,67943.0,9.32,6332.29,4.2,Negative
+ORD10315,2024-08-20,Steven Bowers,Home & Kitchen,Furniture,37229.12,8.59,34031.14,2,68062.28,28.38,19316.08,4.4,Negative
+ORD10316,2024-05-03,Julia Warren,Electronics,Headphones,34451.46,8.57,31498.97,1,31498.97,13.66,4302.76,3.0,Negative
+ORD10317,2024-04-28,Jordan Grant,Books,Non-Fiction,38971.98,39.23,23683.27,4,94733.08,9.09,8611.24,2.9,Neutral
+ORD10318,2025-02-28,Erin Burns,Books,Educational,39429.26,38.87,24103.11,3,72309.33,6.23,4504.87,3.0,Positive
+ORD10319,2024-10-02,Monica Johnson,Home & Kitchen,Home Decor,32930.71,36.24,20996.62,1,20996.62,13.7,2876.54,2.7,Positive
+ORD10320,2024-06-21,David Bell,Home & Kitchen,Appliances,30768.04,25.34,22971.42,2,45942.84,9.39,4314.03,3.1,Positive
+ORD10321,2024-12-02,Tracy Morgan,Books,Comics,31475.9,39.95,18901.28,3,56703.84,15.32,8687.03,3.0,Positive
+ORD10322,2024-07-10,Paul Daniels,Beauty & Personal Care,Skincare,41941.17,39.93,25194.06,3,75582.18,24.29,18358.91,2.9,Positive
+ORD10323,2024-12-02,Donna Vazquez,Home & Kitchen,Kitchenware,22343.45,6.94,20792.81,1,20792.81,12.76,2653.16,2.7,Negative
+ORD10324,2024-10-08,Connor Sanchez,Electronics,Smartwatches,41101.66,21.11,32425.1,3,97275.3,26.16,25447.22,4.2,Negative
+ORD10325,2024-06-28,Ashley Payne,Books,Educational,42508.38,30.88,29381.79,2,58763.58,7.97,4683.46,2.9,Negative
+ORD10326,2025-02-20,Mr. Dwayne Oliver,Home & Kitchen,Kitchenware,39809.49,21.63,31198.7,2,62397.4,13.49,8417.41,3.9,Neutral
+ORD10327,2024-06-17,Stephanie Simmons,Books,Non-Fiction,20346.63,17.64,16757.48,4,67029.92,8.45,5664.03,3.3,Neutral
+ORD10328,2024-06-21,Kristen Williams,Electronics,Mobile Phones,17702.08,36.04,11322.25,4,45289.0,26.57,12033.29,5.0,Neutral
+ORD10329,2024-04-12,James Bowman,Fashion,Men's Clothing,22641.83,48.31,11703.56,2,23407.12,9.81,2296.24,3.8,Neutral
+ORD10330,2024-06-09,Kristin Turner,Home & Kitchen,Kitchenware,43902.71,14.26,37642.18,2,75284.36,13.62,10253.73,3.1,Neutral
+ORD10331,2025-01-04,Aaron Espinoza,Electronics,Mobile Phones,42743.6,41.52,24996.46,4,99985.84,18.35,18347.4,4.1,Neutral
+ORD10332,2024-05-21,Anthony Reyes,Fashion,Women's Clothing,35550.49,9.24,32265.62,3,96796.86,14.43,13967.79,4.4,Positive
+ORD10333,2024-09-10,Corey Arroyo,Beauty & Personal Care,Skincare,6834.19,47.26,3604.35,3,10813.05,23.36,2525.93,2.6,Negative
+ORD10334,2025-01-12,Micheal Guzman,Home & Kitchen,Kitchenware,45812.62,40.46,27276.83,1,27276.83,10.06,2744.05,4.6,Positive
+ORD10335,2024-06-03,Brandon Lopez,Fashion,Men's Clothing,37346.16,49.25,18953.18,3,56859.54,8.64,4912.66,3.9,Positive
+ORD10336,2024-10-29,Andrew Glover,Home & Kitchen,Appliances,30746.86,17.08,25495.3,2,50990.6,20.34,10371.49,2.9,Positive
+ORD10337,2024-10-05,Laurie Scott,Books,Non-Fiction,12125.05,30.91,8377.2,2,16754.4,22.79,3818.33,4.2,Neutral
+ORD10338,2024-04-25,Felicia Espinoza,Electronics,Laptops,19974.45,19.41,16097.41,4,64389.64,8.21,5286.39,3.7,Neutral
+ORD10339,2024-08-14,Mrs. Lindsey Mccoy MD,Home & Kitchen,Furniture,7440.73,46.03,4015.76,4,16063.04,17.4,2794.97,3.2,Positive
+ORD10340,2024-05-18,Dr. Melanie Jenkins,Electronics,Headphones,44819.91,42.34,25843.16,1,25843.16,13.71,3543.1,4.8,Neutral
+ORD10341,2024-08-30,Victor Glenn,Fashion,Accessories,35172.45,32.18,23853.96,5,119269.8,23.73,28302.72,4.0,Positive
+ORD10342,2024-10-20,Sharon Russo,Electronics,Smartwatches,18343.11,44.93,10101.55,4,40406.2,10.98,4436.6,4.2,Negative
+ORD10343,2024-05-24,Daniel Matthews,Electronics,Headphones,13515.15,13.48,11693.31,5,58466.55,27.38,16008.14,5.0,Neutral
+ORD10344,2024-09-09,Mrs. Lisa Martinez,Beauty & Personal Care,Skincare,30380.75,19.15,24562.84,5,122814.2,17.79,21848.65,3.6,Neutral
+ORD10345,2024-06-07,Dawn Dean,Home & Kitchen,Appliances,22046.9,29.35,15576.13,2,31152.26,27.58,8591.79,4.1,Positive
+ORD10346,2025-02-05,Cassandra Key,Home & Kitchen,Appliances,49972.1,30.66,34650.65,4,138602.6,8.26,11448.57,4.4,Positive
+ORD10347,2024-05-09,Shannon Cooper,Beauty & Personal Care,Haircare,29789.47,17.07,24704.41,5,123522.05,5.71,7053.11,4.8,Positive
+ORD10348,2024-10-16,Miranda Lopez,Books,Comics,49279.04,13.96,42399.69,1,42399.69,22.92,9718.01,4.4,Negative
+ORD10349,2024-11-13,Kristina Smith,Home & Kitchen,Appliances,409.05,18.61,332.93,2,665.86,17.59,117.12,3.5,Negative
+ORD10350,2024-11-12,Stephen Rose,Beauty & Personal Care,Fragrances,30659.02,26.38,22571.17,4,90284.68,25.39,22923.28,2.8,Neutral
+ORD10351,2024-09-10,Alexandria Gutierrez,Beauty & Personal Care,Skincare,22783.25,5.03,21637.25,3,64911.75,11.11,7211.7,4.4,Positive
+ORD10352,2025-01-24,Douglas Chambers,Home & Kitchen,Furniture,40569.79,47.07,21473.59,1,21473.59,9.4,2018.52,3.2,Negative
+ORD10353,2024-03-21,Dr. Alyssa Brown,Electronics,Mobile Phones,6974.56,10.52,6240.84,5,31204.2,18.62,5810.22,4.9,Positive
+ORD10354,2024-09-29,Thomas Morgan,Fashion,Footwear,10103.89,41.25,5936.04,3,17808.12,8.55,1522.59,4.3,Negative
+ORD10355,2025-01-10,Jacob Summers,Books,Non-Fiction,7549.62,21.27,5943.82,4,23775.28,14.42,3428.4,3.1,Neutral
+ORD10356,2025-02-07,Jesus Brown,Home & Kitchen,Home Decor,26304.76,10.68,23495.41,5,117477.05,21.15,24846.4,4.5,Neutral
+ORD10357,2024-10-15,Gabriella Warren,Electronics,Smartwatches,28986.14,34.76,18910.56,1,18910.56,27.0,5105.85,2.5,Negative
+ORD10358,2025-01-24,Ryan Coleman,Electronics,Mobile Phones,27366.37,14.68,23348.99,3,70046.97,27.59,19325.96,4.7,Positive
+ORD10359,2024-04-18,Adam Booth,Beauty & Personal Care,Skincare,2932.9,32.38,1983.23,4,7932.92,28.13,2231.53,4.1,Neutral
+ORD10360,2024-12-27,Michael Williams,Books,Educational,28974.3,16.09,24312.34,2,48624.68,7.25,3525.29,3.4,Neutral
+ORD10361,2024-05-25,Betty Hicks,Beauty & Personal Care,Fragrances,214.46,8.58,196.06,3,588.18,19.1,112.34,4.6,Neutral
+ORD10362,2024-07-15,Tyler Powers,Home & Kitchen,Kitchenware,6216.52,44.62,3442.71,4,13770.84,15.68,2159.27,4.9,Neutral
+ORD10363,2024-12-22,Lisa Allen,Home & Kitchen,Furniture,6625.75,21.38,5209.16,4,20836.64,10.42,2171.18,4.0,Negative
+ORD10364,2024-08-26,Joseph Fuller,Home & Kitchen,Furniture,40426.67,12.59,35336.95,4,141347.8,5.82,8226.44,4.0,Positive
+ORD10365,2024-11-14,Rebecca Davis,Electronics,Laptops,34484.5,48.58,17731.93,4,70927.72,5.58,3957.77,2.7,Positive
+ORD10366,2024-09-30,Lawrence Ho,Books,Educational,46834.47,46.15,25220.36,3,75661.08,7.43,5621.62,4.0,Neutral
+ORD10367,2024-09-05,Alicia Martinez,Home & Kitchen,Furniture,44254.74,21.53,34726.69,3,104180.07,12.23,12741.22,2.7,Neutral
+ORD10368,2024-09-10,Richard Weaver,Books,Educational,43686.19,6.35,40912.12,2,81824.24,22.4,18328.63,2.8,Negative
+ORD10369,2024-05-19,Thomas Poole,Beauty & Personal Care,Fragrances,40013.5,10.58,35780.07,3,107340.21,16.35,17550.12,4.3,Negative
+ORD10370,2024-07-18,Valerie Scott,Fashion,Accessories,40328.42,29.64,28375.08,5,141875.4,13.87,19678.12,4.9,Positive
+ORD10371,2024-09-05,Joshua Campbell,Books,Fiction,33821.29,22.08,26353.55,2,52707.1,25.6,13493.02,4.8,Negative
+ORD10372,2024-12-09,Susan Rivas,Electronics,Smartwatches,10067.66,12.36,8823.3,1,8823.3,14.43,1273.2,4.4,Neutral
+ORD10373,2024-11-21,Peggy Houston,Beauty & Personal Care,Makeup,43897.51,6.04,41246.1,4,164984.4,16.31,26908.96,4.6,Positive
+ORD10374,2024-05-04,Sherri Hill,Electronics,Laptops,9343.1,44.07,5225.6,3,15676.8,15.64,2451.85,4.4,Negative
+ORD10375,2024-08-29,Dylan Mccarthy,Beauty & Personal Care,Makeup,43736.36,21.03,34538.6,4,138154.4,13.07,18056.78,3.8,Neutral
+ORD10376,2025-01-30,Joshua Davis,Fashion,Footwear,21155.81,14.38,18113.6,3,54340.8,21.95,11927.81,3.9,Neutral
+ORD10377,2024-06-15,Christopher Grant,Books,Educational,6850.48,20.03,5478.33,4,21913.32,25.35,5555.03,4.9,Negative
+ORD10378,2024-09-09,Barbara Hunter,Home & Kitchen,Furniture,2677.44,48.01,1392.0,2,2784.0,8.51,236.92,3.0,Negative
+ORD10379,2024-08-22,Dr. Lisa Hall,Beauty & Personal Care,Makeup,36574.04,39.6,22090.72,5,110453.6,25.78,28474.94,3.6,Neutral
+ORD10380,2024-10-15,Joseph Cook,Home & Kitchen,Appliances,47336.61,35.9,30342.77,2,60685.54,28.16,17089.05,2.6,Negative
+ORD10381,2024-06-22,Beverly Roberts,Home & Kitchen,Appliances,26915.26,26.67,19736.96,4,78947.84,22.96,18126.42,2.8,Negative
+ORD10382,2024-05-02,Connie Campbell,Home & Kitchen,Kitchenware,26863.22,8.82,24493.88,1,24493.88,10.17,2491.03,4.8,Neutral
+ORD10383,2024-05-02,Adam Baker,Electronics,Smartwatches,12857.05,7.57,11883.77,4,47535.08,6.61,3142.07,3.5,Neutral
+ORD10384,2024-11-11,Dylan Boone,Home & Kitchen,Home Decor,37678.12,18.49,30711.44,1,30711.44,23.72,7284.75,3.5,Negative
+ORD10385,2024-08-17,Ricardo Mcmillan,Home & Kitchen,Kitchenware,535.72,47.82,279.54,3,838.62,25.93,217.45,4.7,Negative
+ORD10386,2025-02-27,Matthew Richardson,Books,Comics,31111.52,14.17,26703.02,2,53406.04,9.45,5046.87,4.8,Neutral
+ORD10387,2024-09-21,Roberto Galloway,Electronics,Headphones,6544.47,27.99,4712.67,5,23563.35,24.06,5669.34,3.8,Neutral
+ORD10388,2024-05-08,Mr. Tracy Davis,Home & Kitchen,Kitchenware,13031.94,7.3,12080.61,3,36241.83,14.0,5073.86,4.0,Neutral
+ORD10389,2024-05-17,Mrs. Christy Swanson DVM,Electronics,Mobile Phones,22786.84,20.1,18206.69,1,18206.69,13.51,2459.72,4.2,Negative
+ORD10390,2024-11-13,Adam Reilly,Beauty & Personal Care,Fragrances,13016.05,40.34,7765.38,4,31061.52,29.43,9141.41,2.8,Positive
+ORD10391,2024-07-31,Kevin Carr,Electronics,Laptops,35477.34,36.67,22467.8,1,22467.8,8.68,1950.21,4.3,Negative
+ORD10392,2024-10-03,Makayla Robles,Electronics,Headphones,15436.01,8.73,14088.45,2,28176.9,17.19,4843.61,4.7,Neutral
+ORD10393,2024-05-27,Monique Cooper,Fashion,Women's Clothing,45615.12,21.82,35661.9,1,35661.9,21.53,7678.01,4.3,Neutral
+ORD10394,2024-07-08,Jeremy Hanna,Beauty & Personal Care,Fragrances,9298.08,23.77,7087.93,3,21263.79,9.68,2058.33,3.1,Neutral
+ORD10395,2024-05-13,Ms. Nicole Ponce,Beauty & Personal Care,Fragrances,44870.39,6.03,42164.71,2,84329.42,20.31,17127.31,4.7,Positive
+ORD10396,2024-12-11,Rachel Rodgers,Electronics,Headphones,25497.39,9.7,23024.14,5,115120.7,26.75,30794.79,3.3,Neutral
+ORD10397,2024-09-30,Bonnie Schneider,Electronics,Headphones,41425.02,32.64,27903.89,5,139519.45,15.33,21388.33,3.2,Negative
+ORD10398,2025-03-16,Andrew Vargas,Electronics,Laptops,40514.1,28.42,28999.99,4,115999.96,29.56,34289.59,4.0,Neutral
+ORD10399,2024-06-24,Jason Walker,Fashion,Footwear,12546.7,25.01,9408.77,3,28226.31,20.61,5817.44,4.8,Negative
+ORD10400,2024-06-03,Shelly Gonzalez,Electronics,Smartwatches,18908.15,32.61,12742.2,2,25484.4,27.13,6913.92,2.5,Positive
+ORD10401,2025-02-22,Catherine Small,Beauty & Personal Care,Makeup,48242.75,14.88,41064.23,1,41064.23,21.49,8824.7,3.9,Negative
+ORD10402,2025-03-11,Dr. Kyle Watkins,Beauty & Personal Care,Haircare,34547.24,43.19,19626.29,1,19626.29,5.64,1106.92,4.5,Neutral
+ORD10403,2024-06-17,Crystal Jones,Electronics,Laptops,37542.36,23.52,28712.4,5,143562.0,11.17,16035.88,3.7,Positive
+ORD10404,2024-05-17,Chris White,Books,Comics,27262.78,25.46,20321.68,4,81286.72,25.76,20939.46,3.1,Negative
+ORD10405,2024-05-04,Rebecca Cooley,Beauty & Personal Care,Skincare,24355.08,14.28,20877.17,1,20877.17,12.74,2659.75,2.7,Negative
+ORD10406,2024-03-30,Eric Smith,Home & Kitchen,Furniture,8751.28,32.64,5894.86,3,17684.58,20.44,3614.73,3.7,Neutral
+ORD10407,2024-05-01,Anna Miller,Fashion,Accessories,37359.62,15.54,31553.94,4,126215.76,14.56,18377.01,2.9,Neutral
+ORD10408,2024-04-03,Brianna Bradshaw,Electronics,Mobile Phones,23923.78,34.74,15612.66,4,62450.64,15.42,9629.89,4.9,Positive
+ORD10409,2024-10-28,Matthew Richardson,Beauty & Personal Care,Skincare,14312.54,36.23,9127.11,4,36508.44,19.24,7024.22,2.8,Neutral
+ORD10410,2024-10-10,Mark Edwards,Fashion,Accessories,44680.88,25.96,33081.72,5,165408.6,18.69,30914.87,2.6,Positive
+ORD10411,2024-08-13,Dominic Bennett,Electronics,Smartwatches,47936.59,28.26,34389.71,5,171948.55,9.41,16180.36,3.1,Positive
+ORD10412,2024-04-03,Christopher Edwards,Books,Non-Fiction,35982.99,35.49,23212.63,3,69637.89,7.42,5167.13,5.0,Positive
+ORD10413,2024-08-04,Timothy Rodriguez,Books,Educational,10954.87,17.49,9038.86,3,27116.58,15.21,4124.43,3.6,Positive
+ORD10414,2024-11-26,Angela Martinez,Fashion,Women's Clothing,27690.88,16.08,23238.19,3,69714.57,8.71,6072.14,5.0,Positive
+ORD10415,2024-09-19,Melanie Black,Beauty & Personal Care,Skincare,24596.71,29.59,17318.54,5,86592.7,7.83,6780.21,4.6,Positive
+ORD10416,2024-10-23,Austin Norman,Fashion,Women's Clothing,2018.41,28.58,1441.55,5,7207.75,21.32,1536.69,4.7,Positive
+ORD10417,2024-09-29,Michelle Estrada,Beauty & Personal Care,Makeup,13206.19,27.11,9625.99,1,9625.99,16.03,1543.05,4.1,Positive
+ORD10418,2024-11-16,Roger Edwards,Electronics,Mobile Phones,2876.57,23.6,2197.7,5,10988.5,10.3,1131.82,3.8,Positive
+ORD10419,2024-04-06,Donna Russell,Home & Kitchen,Appliances,3708.18,47.62,1942.34,2,3884.68,7.57,294.07,4.6,Positive
+ORD10420,2025-02-17,Austin Gray,Books,Comics,21047.27,5.31,19929.66,5,99648.3,17.77,17707.5,3.4,Negative
+ORD10421,2024-12-17,Robin Peterson,Electronics,Smartwatches,16913.04,44.69,9354.6,4,37418.4,21.14,7910.25,3.0,Neutral
+ORD10422,2024-11-29,Ann Davila,Electronics,Mobile Phones,35768.73,41.06,21082.09,4,84328.36,16.89,14243.06,4.4,Positive
+ORD10423,2024-07-04,Alicia Boyd,Fashion,Women's Clothing,48888.03,7.27,45333.87,1,45333.87,18.98,8604.37,3.5,Neutral
+ORD10424,2024-08-09,Hector Smith,Electronics,Laptops,35313.77,49.95,17674.54,2,35349.08,6.78,2396.67,4.7,Neutral
+ORD10425,2024-04-22,Noah Fox,Beauty & Personal Care,Skincare,17751.2,44.26,9894.52,3,29683.56,8.49,2520.13,3.0,Positive
+ORD10426,2024-08-14,Lauren Tyler,Electronics,Smartwatches,32999.38,49.34,16717.49,5,83587.45,9.92,8291.88,3.1,Positive
+ORD10427,2024-05-16,Michael Santos,Home & Kitchen,Kitchenware,30647.85,5.59,28934.64,3,86803.92,17.86,15503.18,3.0,Negative
+ORD10428,2024-12-18,Stephen Jones,Electronics,Laptops,34914.73,41.86,20299.42,3,60898.26,24.49,14913.98,3.1,Neutral
+ORD10429,2025-02-14,Brandon Hayes,Fashion,Women's Clothing,7842.32,19.19,6337.38,5,31686.9,18.46,5849.4,3.0,Negative
+ORD10430,2024-11-16,Allen Mcclure,Electronics,Smartwatches,43755.54,7.53,40460.75,4,161843.0,19.62,31753.6,3.3,Neutral
+ORD10431,2024-04-25,Colleen Gomez,Books,Fiction,23206.48,44.73,12826.22,2,25652.44,5.08,1303.14,2.7,Positive
+ORD10432,2025-02-24,Maria Shaw,Home & Kitchen,Appliances,37999.42,23.19,29187.35,4,116749.4,9.17,10705.92,4.6,Positive
+ORD10433,2024-07-11,Amber Price,Electronics,Smartwatches,16089.45,19.94,12881.21,4,51524.84,29.16,15024.64,3.5,Negative
+ORD10434,2024-09-24,Crystal Williams,Electronics,Headphones,31289.57,21.98,24412.12,3,73236.36,15.59,11417.55,3.8,Neutral
+ORD10435,2024-06-04,Robert Woodward,Beauty & Personal Care,Skincare,37561.86,41.01,22157.74,2,44315.48,16.21,7183.54,3.6,Positive
+ORD10436,2025-01-23,Matthew Roberts,Fashion,Men's Clothing,28238.72,9.39,25587.1,4,102348.4,16.32,16703.26,4.8,Neutral
+ORD10437,2024-04-24,Jennifer Martin,Home & Kitchen,Appliances,8317.48,42.0,4824.14,2,9648.28,15.53,1498.38,4.0,Neutral
+ORD10438,2024-12-05,Sabrina Gonzalez,Electronics,Smartwatches,4353.52,41.51,2546.37,2,5092.74,16.09,819.42,3.0,Negative
+ORD10439,2024-11-22,Eric Wright,Electronics,Smartwatches,23426.68,25.44,17466.93,2,34933.86,10.19,3559.76,3.3,Positive
+ORD10440,2024-11-21,Timothy White,Books,Non-Fiction,24813.73,8.94,22595.38,2,45190.76,6.4,2892.21,3.9,Negative
+ORD10441,2025-01-23,Crystal Graham,Fashion,Women's Clothing,37166.04,28.99,26391.61,2,52783.22,26.26,13860.87,2.8,Neutral
+ORD10442,2024-09-05,Laura Diaz,Electronics,Smartwatches,43171.32,7.96,39734.88,2,79469.76,24.56,19517.77,4.7,Negative
+ORD10443,2024-07-27,Christopher Tucker,Beauty & Personal Care,Makeup,26049.22,27.86,18791.91,1,18791.91,20.15,3786.57,4.7,Negative
+ORD10444,2024-12-06,Rebecca Davis,Home & Kitchen,Kitchenware,38820.65,14.71,33110.13,4,132440.52,19.58,25931.85,4.0,Positive
+ORD10445,2024-08-12,Christopher Cruz,Beauty & Personal Care,Fragrances,14289.6,5.86,13452.23,4,53808.92,19.21,10336.69,4.4,Neutral
+ORD10446,2024-10-10,Laura Christensen,Electronics,Laptops,36638.15,48.37,18916.28,2,37832.56,23.64,8943.62,4.7,Positive
+ORD10447,2024-05-12,Tina Crawford,Fashion,Accessories,43416.75,31.31,29822.97,2,59645.94,22.95,13688.74,4.2,Positive
+ORD10448,2024-09-05,Tony Brandt,Books,Fiction,24647.23,13.76,21255.77,2,42511.54,25.91,11014.74,4.6,Neutral
+ORD10449,2024-09-04,Shawn Marshall,Home & Kitchen,Appliances,25917.31,27.89,18688.97,5,93444.85,7.41,6924.26,4.5,Positive
+ORD10450,2024-05-11,Melissa Ramsey,Electronics,Headphones,35569.99,5.2,33720.35,5,168601.75,13.39,22575.77,3.7,Negative
+ORD10451,2024-10-06,Victoria Moore,Beauty & Personal Care,Skincare,24172.95,35.7,15543.21,2,31086.42,10.03,3117.97,4.8,Positive
+ORD10452,2025-01-13,Beth Odonnell,Beauty & Personal Care,Skincare,30572.89,32.45,20651.99,2,41303.98,5.4,2230.41,2.7,Positive
+ORD10453,2024-12-16,Peter Alvarez,Books,Educational,33903.56,39.31,20576.07,1,20576.07,13.13,2701.64,4.1,Positive
+ORD10454,2024-05-03,Francisco Stewart,Home & Kitchen,Appliances,18948.96,41.14,11153.36,3,33460.08,21.3,7127.0,3.3,Positive
+ORD10455,2024-05-24,Andrea Wilson,Fashion,Footwear,14912.49,45.52,8124.32,3,24372.96,12.28,2993.0,2.9,Neutral
+ORD10456,2024-08-21,Rachel Daniel,Fashion,Women's Clothing,11733.94,30.01,8212.58,2,16425.16,5.57,914.88,3.2,Positive
+ORD10457,2025-02-15,Christina Holmes,Beauty & Personal Care,Makeup,30641.32,47.89,15967.19,3,47901.57,8.51,4076.42,3.8,Neutral
+ORD10458,2025-02-19,Shelby York,Fashion,Footwear,19160.55,48.95,9781.46,3,29344.38,18.36,5387.63,4.8,Positive
+ORD10459,2024-06-05,Ashley Morton,Electronics,Smartwatches,47309.12,31.6,32359.44,4,129437.76,16.42,21253.68,4.3,Positive
+ORD10460,2024-09-10,Dr. Thomas Hoffman DVM,Fashion,Accessories,24844.93,46.46,13301.98,3,39905.94,29.69,11848.07,4.0,Positive
+ORD10461,2025-01-21,Mary Hanson,Beauty & Personal Care,Fragrances,49753.91,41.11,29300.08,4,117200.32,18.57,21764.1,3.2,Negative
+ORD10462,2025-02-11,Matthew Knight,Books,Non-Fiction,31970.5,41.03,18853.0,2,37706.0,24.06,9072.06,4.1,Negative
+ORD10463,2024-11-10,Nathaniel Dyer,Electronics,Headphones,43638.19,9.23,39610.39,4,158441.56,15.65,24796.1,4.2,Negative
+ORD10464,2024-10-13,Jeanne Williams,Books,Comics,23637.62,39.39,14326.76,4,57307.04,13.9,7965.68,3.5,Neutral
+ORD10465,2025-01-15,Nancy Johnson,Electronics,Headphones,49805.68,17.16,41259.03,3,123777.09,12.88,15942.49,4.9,Neutral
+ORD10466,2024-08-29,Andrew Bailey,Fashion,Men's Clothing,34564.98,44.45,19200.85,1,19200.85,27.38,5257.19,4.1,Negative
+ORD10467,2024-05-16,Adrian Castillo,Fashion,Men's Clothing,33201.1,27.1,24203.6,1,24203.6,15.55,3763.66,3.0,Neutral
+ORD10468,2024-11-11,Sandra Walker,Fashion,Men's Clothing,40216.03,9.43,36423.66,3,109270.98,11.74,12828.41,4.1,Negative
+ORD10469,2024-11-20,Victoria Harper,Fashion,Accessories,46886.3,29.07,33256.45,3,99769.35,7.16,7143.49,3.0,Positive
+ORD10470,2025-02-03,Robert Sheppard,Beauty & Personal Care,Haircare,31029.22,18.59,25260.89,1,25260.89,13.75,3473.37,3.6,Negative
+ORD10471,2025-02-05,Kim Hogan,Beauty & Personal Care,Makeup,42766.21,9.56,38677.76,5,193388.8,9.86,19068.14,3.7,Neutral
+ORD10472,2025-03-09,Melissa Jones,Beauty & Personal Care,Fragrances,1222.75,44.26,681.56,5,3407.8,20.67,704.39,4.1,Negative
+ORD10473,2024-04-09,Amy Hanson,Books,Non-Fiction,43507.54,8.79,39683.23,4,158732.92,12.0,19047.95,3.8,Negative
+ORD10474,2024-12-13,Tonya Nguyen,Fashion,Women's Clothing,48051.16,37.13,30209.76,2,60419.52,29.43,17781.46,3.6,Neutral
+ORD10475,2024-08-09,Patrick Lopez,Fashion,Accessories,21081.31,41.09,12419.0,4,49676.0,27.8,13809.93,4.4,Neutral
+ORD10476,2024-10-19,Daniel Weber,Home & Kitchen,Appliances,16614.15,37.77,10338.99,2,20677.98,28.44,5880.82,3.0,Negative
+ORD10477,2024-04-21,Eric Long,Beauty & Personal Care,Fragrances,40252.07,46.83,21402.03,3,64206.09,18.87,12115.69,3.4,Positive
+ORD10478,2024-04-18,Michelle Fisher,Beauty & Personal Care,Makeup,23188.2,20.98,18323.32,5,91616.6,27.37,25075.46,3.1,Neutral
+ORD10479,2025-02-05,Carol Gomez,Books,Comics,49176.19,46.33,26392.86,1,26392.86,29.86,7880.91,4.7,Positive
+ORD10480,2024-07-31,Austin Burgess,Electronics,Headphones,48771.25,20.13,38953.6,4,155814.4,6.15,9582.59,3.5,Positive
+ORD10481,2024-09-27,Chris Lynch,Home & Kitchen,Appliances,16834.69,27.78,12158.01,5,60790.05,10.41,6328.24,4.7,Neutral
+ORD10482,2025-02-05,Wesley Francis,Books,Educational,15033.86,25.86,11146.1,1,11146.1,26.63,2968.21,2.8,Positive
+ORD10483,2024-04-04,Brian Soto,Home & Kitchen,Kitchenware,21944.92,22.12,17090.7,3,51272.1,8.66,4440.16,3.0,Positive
+ORD10484,2024-08-17,Mr. Casey Nielsen Jr.,Home & Kitchen,Appliances,27797.03,45.05,15274.47,5,76372.35,12.69,9691.65,4.6,Positive
+ORD10485,2024-08-01,Susan Snyder,Books,Educational,22661.08,13.89,19513.46,2,39026.92,29.24,11411.47,2.6,Positive
+ORD10486,2025-03-03,Madeline Duncan,Fashion,Footwear,30818.06,24.79,23178.26,1,23178.26,20.45,4739.95,4.7,Neutral
+ORD10487,2024-04-04,Todd Kidd,Home & Kitchen,Appliances,7932.84,44.03,4440.01,3,13320.03,22.73,3027.64,3.8,Negative
+ORD10488,2024-04-03,Audrey Gomez,Beauty & Personal Care,Fragrances,27552.64,38.33,16991.71,2,33983.42,23.22,7890.95,4.8,Neutral
+ORD10489,2024-08-04,Katrina Solis,Electronics,Headphones,9189.87,6.44,8598.04,1,8598.04,13.22,1136.66,2.9,Negative
+ORD10490,2025-01-29,Vanessa Shaw,Fashion,Women's Clothing,34505.65,26.7,25292.64,1,25292.64,23.19,5865.36,3.0,Positive
+ORD10491,2024-10-07,Paul Martinez,Home & Kitchen,Appliances,31182.72,10.44,27927.24,2,55854.48,20.67,11545.12,4.8,Neutral
+ORD10492,2025-02-01,Kara Scott,Home & Kitchen,Home Decor,35916.49,12.7,31355.1,5,156775.5,29.64,46468.26,4.0,Neutral
+ORD10493,2024-12-31,Courtney Wright,Home & Kitchen,Home Decor,27975.82,9.89,25209.01,2,50418.02,21.16,10668.45,4.3,Positive
+ORD10494,2025-02-13,Laura Williams,Books,Non-Fiction,15672.78,11.01,13947.21,5,69736.05,17.19,11987.63,3.6,Neutral
+ORD10495,2024-08-07,Michael Scott,Books,Educational,32131.34,35.67,20670.09,2,41340.18,23.0,9508.24,4.7,Neutral
+ORD10496,2025-01-07,Carol Johnson,Beauty & Personal Care,Fragrances,1803.59,32.18,1223.19,3,3669.57,13.09,480.35,2.5,Positive
+ORD10497,2024-06-23,Marvin Roth,Beauty & Personal Care,Skincare,5413.32,9.95,4874.69,2,9749.38,14.28,1392.21,4.3,Neutral
+ORD10498,2024-11-12,Jeremy Schaefer,Home & Kitchen,Furniture,15487.04,19.73,12431.45,5,62157.25,27.15,16875.69,4.6,Positive
+ORD10499,2024-10-09,Mary Bennett,Beauty & Personal Care,Haircare,36813.76,36.03,23549.76,5,117748.8,11.22,13211.42,2.9,Negative
